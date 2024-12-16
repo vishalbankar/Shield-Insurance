@@ -14,9 +14,9 @@ Shield Insurance wanted to improve its decision-making through better data insig
 
 I developed a dashboard with three key views:
 
-1. General Analysis: A high-level overview of revenue and customer distribution, with monthly trends to track growth.
+1. General Analysis: Provides the overview on KPI's , Revenue trends & Customer Segmentation.
 
-2. Sales Mode Analysis: Focuses on revenue and customer data across different sales channels, helping assess their performance.
+2. Sales Mode Analysis: Provides the details on customer acquisition, revenue trend's and sales distribution over different channels.
 
-3. Age Group Analysis: Breaks down policy sales and revenue by age group to identify the most valuable customer segments.
+3. Age Group Analysis: Focused on providing age-group specific analysis which include providing insights on expected settlements, policy preference ,etc..
 
