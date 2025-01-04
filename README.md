@@ -31,5 +31,18 @@ I developed a dashboard with three key views:
 
 ## ➡️ Insights 
 
+1.Offline agent is the primary sales channel, contributing 55% of total policies sold.
+      Reason : personalized advice, trust, and ongoing support agents can offer, 
+               especially for complex policies and claims.
+
+2.Online policy purchases have seen a significant rise as per the observed trend, reflecting a growing shift towards digital convenience.
+  Company should think of introducing #online Ai enabled voice chat assistance to guide 
+  customers in selecting policies based on their needs could greatly enhance the purchasing experience and provide personalized support.
+
+3.Customers from 31-40 age group are the largest contributor to revenue, with a settlement % of around 50%, making them the Premium customers.
+
+4.Younger age groups (18-24 and 25-30) tend to hold policies with low base coverage amount.
+   company should think of introducing policiy which cater the needs for age-group 25-30 as customers from this age-group are future primium customers.
+
 ![image](https://github.com/user-attachments/assets/254be321-38ff-46ab-8695-73420d5ead31)
 
