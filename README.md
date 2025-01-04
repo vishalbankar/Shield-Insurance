@@ -38,8 +38,8 @@ I developed a dashboard with three key views:
 
 2.Online policy purchases have seen a significant rise as per the observed trend, reflecting a growing shift towards digital convenience.
 
-  Company should think of introducing #online Ai enabled voice chat assistance to guide 
-  customers in selecting policies based on their needs could greatly enhance the purchasing experience and provide personalized support.
+     Company should think of introducing #online Ai enabled voice chat assistance to guide 
+     customers in selecting policies based on their needs could greatly enhance the purchasing experience and provide personalized support.
 
 3.Customers from 31-40 age group are the largest contributor to revenue, with a settlement % of around 50%, making them the Premium customers.
 
@@ -47,5 +47,4 @@ I developed a dashboard with three key views:
    company should think of introducing policiy which cater the needs for age-group 25-30 as customers from this age-group are future primium customers.
    
 
-![image](https://github.com/user-attachments/assets/254be321-38ff-46ab-8695-73420d5ead31)
 
