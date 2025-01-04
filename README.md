@@ -19,7 +19,13 @@ I developed a dashboard with three key views:
    ![image](https://github.com/user-attachments/assets/4bc610b2-9950-4c5e-8e5f-a8c698cff103)
 
 
-2. Sales Mode Analysis: Provides the details on customer acquisition, revenue trend's and sales distribution over different channels.
+2. Sales Mode Analysis: Provides the details on customer acquisition by diifernt sales mode , revenue distribution over different sales modes in differnt cities .
 
-4. Age Group Analysis: Focused on providing age-group specific analysis which include providing insights on expected settlements, policy preference ,etc..
+   ![image](https://github.com/user-attachments/assets/2ef47d08-cf70-45ea-9af6-9bbbebaa9a9a)
+
+
+3. Age Group Analysis: Focused on providing age-group specific analysis which include providing insights on expected settlements, policy preference ,etc..
+
+   ![image](https://github.com/user-attachments/assets/7dcf5ac9-44fa-4fa3-83a0-231d0d6c2d56)
+
 
