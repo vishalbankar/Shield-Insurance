@@ -16,7 +16,10 @@ I developed a dashboard with three key views:
 
 1. General Analysis: Provides the overview on KPI's , Revenue trends & Customer Segmentation.
 
+   ![image](https://github.com/user-attachments/assets/4bc610b2-9950-4c5e-8e5f-a8c698cff103)
+
+
 2. Sales Mode Analysis: Provides the details on customer acquisition, revenue trend's and sales distribution over different channels.
 
-3. Age Group Analysis: Focused on providing age-group specific analysis which include providing insights on expected settlements, policy preference ,etc..
+4. Age Group Analysis: Focused on providing age-group specific analysis which include providing insights on expected settlements, policy preference ,etc..
 
