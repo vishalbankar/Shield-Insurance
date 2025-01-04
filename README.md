@@ -29,3 +29,7 @@ I developed a dashboard with three key views:
    ![image](https://github.com/user-attachments/assets/7dcf5ac9-44fa-4fa3-83a0-231d0d6c2d56)
 
 
+## ➡️ Insights 
+
+![image](https://github.com/user-attachments/assets/254be321-38ff-46ab-8695-73420d5ead31)
+
